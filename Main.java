@@ -28,20 +28,3 @@ public class Main {
         System.out.println("En Küçük Sayı: " + min + "\nEn Büyük Sayı: " + max);
     }
 }
-
-
-
-
-      /*  int sayı, deger,i;
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Kaç tane sayı gireceksiniz:  ");
-        sayı = scanner.nextInt();
-
-
-       for ( i=1; i<sayı ; i++);
-        {
-            System.out.print("Sayıyı Giriniz: ");
-            deger = scanner.nextInt();
-            System.out.println(i++);
-
-        }*/
